@@ -1,6 +1,6 @@
-# FoodFinder Application
+# Food Finder Application
 
-FoodFinder is a web application developed with the aim of creating a fullstack application using modern technologies. The project utilizes TypeScript, React, Next.js, Apollo Server, MongoDB, and Docker to build a robust and scalable solution. The application helps users find and save their favorite food places and offers features such as authentication with NextAuth and management of user wishlists.
+This web application is developed with the aim of creating a fullstack application using modern technologies. The project utilizes TypeScript, React, Next.js, Apollo Server, MongoDB, and Docker to build a robust and scalable solution. The application helps users find and save their favorite food places and offers features such as authentication with NextAuth and management of user wishlists.
 
 ## Features
 
