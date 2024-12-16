@@ -1,0 +1,9 @@
+.root {
+  background: rgb(39 39 42);
+  border-bottom: 1px solid #eaeaea;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
