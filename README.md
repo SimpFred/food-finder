@@ -1,11 +1,11 @@
 # FoodFinder Application
 
-FoodFinder är en webbapplikation som har tagits fram med syftet att skapa en fullstack-applikation med moderna tekniker. Projektet använder TypeScript, React, Next.js, Apollo Server, MongoDB och Docker för att bygga en robust och skalbar lösning. Applikationen hjälper användare att hitta och spara sina favoritmatställen och erbjuder funktioner som autentisering med NextAuth och hantering av användares önskelistor.
+FoodFinder is a web application developed with the aim of creating a fullstack application using modern technologies. The project utilizes TypeScript, React, Next.js, Apollo Server, MongoDB, and Docker to build a robust and scalable solution. The application helps users find and save their favorite food places and offers features such as authentication with NextAuth and management of user wishlists.
 
-## Funktioner
+## Features
 
-- **Autentisering**: Användare kan logga in med GitHub.
-- **GraphQL API**: Använd Apollo Server för att hantera GraphQL-förfrågningar.
-- **MongoDB**: Använd MongoDB för att lagra data om matställen och användares önskelistor.
-- **Önskelista**: Användare kan lägga till och ta bort matställen från sin önskelista.
-- **Testning**: Konfigurerad med Jest för enhetstester.
+- **Authentication**: Users can log in with GitHub.
+- **GraphQL API**: Uses Apollo Server to handle GraphQL requests.
+- **MongoDB**: Utilizes MongoDB to store data about food places and user wishlists.
+- **Wishlist**: Users can add and remove food places from their wishlist.
+- **Testing**: Configured with Jest for unit testing.
